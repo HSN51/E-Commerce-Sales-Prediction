@@ -35,7 +35,6 @@ This project aims to analyze past sales data of an e-commerce company and predic
 | *Linear Regression*  | 2163 | 2894 |  0.735167     |
 | *Random Forest*      | 1780 | 2492 | 0.735657     |
 
-*🎯 Best performing model: Random Forest with 79% accuracy!*
 
 ## 📤 Execution Steps
 1️⃣ *Install Required Libraries*
