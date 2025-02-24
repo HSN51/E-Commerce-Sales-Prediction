@@ -32,8 +32,8 @@ This project aims to analyze past sales data of an e-commerce company and predic
 ## 🎯 Model Performance Comparison
 | Model                  | MAE  | RMSE  | R2 Score |
 |-----------------------|------|------|----------|
-| *Linear Regression*  | 2163 | 2894 | 0.72     |
-| *Random Forest*      | 1780 | 2492 | 0.79     |
+| *Linear Regression*  | 2163 | 2894 |  0.735167     |
+| *Random Forest*      | 1780 | 2492 | 0.735657     |
 
 *🎯 Best performing model: Random Forest with 79% accuracy!*
 
